@@ -20,7 +20,6 @@ anaconda-gui.x86_64
 anaconda-tui.x86_64
 anaconda-user-help.noarch
 anaconda-widgets.x86_64
-ansible.x86_64
 ansible-core.x86_64
 appstream-data.noarch
 aspell.x86_64
@@ -291,7 +290,6 @@ harfbuzz.x86_64
 hdparm.x86_64
 hicolor-icon-theme.noarch
 hostname.x86_64
-htop.x86_64
 hwdata.noarch
 ibus-gtk2.x86_64
 ibus-gtk3.x86_64
@@ -304,7 +302,6 @@ ibus-m17n.x86_64
 ibus-setup.noarch
 ibus-typing-booster.noarch
 ibus.x86_64
-iftop.x86_64
 info.x86_64
 initial-setup.x86_64
 initscripts.x86_64
@@ -425,7 +422,6 @@ libcollection.x86_64
 libcom_err.x86_64
 libcomps.x86_64
 libconfig.x86_64
-libconfuse.x86_64
 libcroco.x86_64
 libcurl.x86_64
 libdaemon.x86_64
@@ -1092,7 +1088,6 @@ python38-setuptools-wheel.noarch
 python38-six.noarch
 python38.x86_64
 python3-audit.x86_64
-python3-beautifulsoup4.noarch
 python3-bind.noarch
 python3-blivet.noarch
 python3-blockdev.x86_64
@@ -1101,7 +1096,6 @@ python3-bytesize.x86_64
 python3-cairo.x86_64
 python3-chardet.noarch
 python3-cloud-what.x86_64
-python3-cssselect.noarch
 python3-cups.x86_64
 python3-dasbus.noarch
 python3-dateutil.noarch
@@ -1456,5 +1450,3 @@ yum-utils.noarch
 zenity.x86_64
 zip.x86_64
 zlib.x86_64
-
-

@@ -1,0 +1,6 @@
+ansible.x86_64
+htop.x86_64
+iftop.x86_64
+libconfuse.x86_64
+python3-beautifulsoup4.noarch
+python3-cssselect.noarch

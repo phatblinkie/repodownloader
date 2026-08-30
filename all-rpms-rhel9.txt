@@ -1,4 +1,3 @@
-
 aardvark-dns.x86_64
 abattis-cantarell-fonts.noarch
 acl.x86_64
@@ -12,7 +11,6 @@ alsa-lib.x86_64
 alternatives.x86_64
 annobin.x86_64
 ansible-core.x86_64
-ansible.noarch
 appstream-data.noarch
 appstream.x86_64
 atkmm.x86_64
@@ -42,12 +40,10 @@ binutils.x86_64
 blktrace.x86_64
 bluez-libs.x86_64
 bluez.x86_64
-bmon.x86_64
 bolt.x86_64
 bpftool.x86_64
 bubblewrap.x86_64
 buildah.x86_64
-bwm-ng.x86_64
 bzip2-libs.x86_64
 bzip2.x86_64
 ca-certificates.noarch
@@ -143,7 +139,6 @@ elfutils-default-yama-scope.noarch
 elfutils-libelf.x86_64
 elfutils-libs.x86_64
 emacs-filesystem.noarch
-epel-release.noarch
 esc.x86_64
 ethtool.x86_64
 exempi.x86_64
@@ -225,7 +220,6 @@ gobject-introspection.x86_64
 google-carlito-fonts.noarch
 go-srpm-macros.noarch
 gpgme.x86_64
-gpg-pubkey.(none)
 gpm-libs.x86_64
 gpm.x86_64
 graphene.x86_64
@@ -255,10 +249,8 @@ harfbuzz.x86_64
 hdparm.x86_64
 hicolor-icon-theme.noarch
 hostname.x86_64
-htop.x86_64
 httpd-filesystem.noarch
 hwdata.noarch
-iftop.x86_64
 ima-evm-utils.x86_64
 info.x86_64
 inih.x86_64
@@ -331,13 +323,6 @@ krb5-devel.x86_64
 krb5-libs.x86_64
 krb5-pkinit.x86_64
 krb5-workstation.x86_64
-l3h_iperf.x86_64
-l3h_mcjoin.x86_64
-l3h_netcfgsvr1.x86_64
-l3h_pimd.x86_64
-l3h_smcroute.x86_64
-l3h_tac_plus.x86_64
-l3h_vNIA.x86_64
 langpacks-core-en.noarch
 langpacks-core-font-en.noarch
 langpacks-en.noarch
@@ -380,10 +365,8 @@ libcbor.x86_64
 libcollection.x86_64
 libcom_err-devel.x86_64
 libcom_err.x86_64
-libcompression.x86_64
 libcomps.x86_64
 libconfig.x86_64
-libconfuse.x86_64
 libcurl.x86_64
 libdaemon.x86_64
 libdatrie.x86_64
@@ -479,7 +462,6 @@ libreswan.x86_64
 librhsm.x86_64
 librsvg2-tools.x86_64
 librsvg2.x86_64
-libsarzip.x86_64
 libsbc.x86_64
 libseccomp.x86_64
 libsecret.x86_64
@@ -1115,7 +1097,6 @@ samba-ldb-ldap-modules.x86_64
 samba-libs.x86_64
 samba-winbind-modules.x86_64
 samba-winbind.x86_64
-sarzip.x86_64
 scap-security-guide.noarch
 SDL2.x86_64
 sed.x86_64
@@ -1140,7 +1121,6 @@ sombok.x86_64
 sos.noarch
 sound-theme-freedesktop.noarch
 soundtouch.x86_64
-spawarscc.x86_64
 spirv-tools-libs.x86_64
 sqlite-libs.x86_64
 sqlite.x86_64
@@ -1240,9 +1220,6 @@ xz.x86_64
 yajl.x86_64
 yum.noarch
 yum-utils.noarch
-zcomp.x86_64
-zfts.x86_64
 zip.x86_64
 zlib.x86_64
 zsh.x86_64
-zsiglib.x86_64
